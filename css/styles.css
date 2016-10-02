@@ -61,6 +61,7 @@ body {
   width: 100%;
   padding: 10px 0px;
   border-bottom: 2px solid black;
+  background-color: #c8c8c8;
 }
 #navbar {
   background-color: #ffffff;
@@ -88,6 +89,7 @@ h2 {
   margin: 5px auto;
   width: 90%;
   background-color: #c8c8c8;
+  height: 2000px;
 }
 
 .menu-item-title {
